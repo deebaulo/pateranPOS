@@ -1,0 +1,2 @@
+# pateranPOS
+Pateran POS 
